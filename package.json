@@ -1,0 +1,23 @@
+{
+  "name": "com.huyhung1404.gameflow",
+  "version": "0.0.1",
+  "displayName": "Game Flow",
+  "description": "Game flow management system using Unity's addressable asset structure.",
+  "unity": "2019.1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.addressables": "1.19.19"
+ },
+ "keywords": [
+    "flow",
+    "ui",
+    "ux"
+  ],
+  "author": {
+    "name": "huyhung1404",
+    "email": "huyhung1404@gmail.com",
+    "url": "https://github.com/huyhung1404"
+  }
+}
